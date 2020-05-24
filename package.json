@@ -1,0 +1,16 @@
+{
+  "name": "shrinky",
+  "version": "1.0.0",
+  "description": "Application for shrinking images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "nodemon --exec electron ."
+  },
+  "author": "Stipo Margic",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0",
+    "nodemon": "^2.0.4"
+  }
+}
